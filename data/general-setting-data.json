@@ -1,0 +1,8 @@
+{
+    "Name": "Dashboard_%s",
+    "ItemType": "Test Modules",
+    "RelatedData": {
+        "related":"Related test results",
+        "isDistinct": true
+    }
+}

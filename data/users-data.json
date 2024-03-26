@@ -1,0 +1,27 @@
+{
+    "administrator": {
+        "username": "administrator",
+        "password": ""
+    },
+    "john": {
+        "username": "john",
+        "password": ""
+    },
+    "mary": {
+        "username": "mary",
+        "password": ""
+    },
+    "peter": {
+        "username": "peter",
+        "password": ""
+    },
+    "susan": {
+        "username": "susan",
+        "password": ""
+    },
+    "invalidaccount": {
+        "username": "invalidusername",
+        "password": "invalidpassword"
+    }
+
+}
