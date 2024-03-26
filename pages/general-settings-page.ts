@@ -1,4 +1,4 @@
-import { GeneralSetting } from "../models/general-Settings";
+import { GeneralSetting } from "../models/general-settings";
 import { Locator, Page} from "@playwright/test"
 import { CreateDataProfileBase } from "./create-data-profile-page";
 

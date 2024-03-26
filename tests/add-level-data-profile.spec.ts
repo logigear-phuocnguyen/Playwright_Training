@@ -4,7 +4,7 @@ import repo from "../data/common-data.json";
 import  generalData  from "../data/general-setting-data.json";
 import displayFieldData  from  "../data/display-fields-data.json";
 import sortFieldData  from '../data/sort-fields-data.json';
-import { GeneralSetting } from "../models/general-Settings";
+import { GeneralSetting } from "../models/general-settings";
 import { DisplayFields } from "../models/display-field";
 import { format } from "util";
 import { Utils } from "../utils/utils";
