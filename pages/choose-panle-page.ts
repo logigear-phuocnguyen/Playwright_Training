@@ -43,6 +43,7 @@ export class ChoosePanelPage extends BasePage{
 
     async addNewPanel(){
         await this.createNewPanelButton.click();
+        await Utils.wait(Timeout.SHORT_TIME);
     }
 
     async checkAddNewPanelFormFocused(){
